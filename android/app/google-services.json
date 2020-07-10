@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465260998303",
+    "firebase_url": "https://jobs-f6347.firebaseio.com",
+    "project_id": "jobs-f6347",
+    "storage_bucket": "jobs-f6347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465260998303:android:353fc1e92fd3cfe3c9bcaa",
+        "android_client_info": {
+          "package_name": "widget.team.jobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465260998303-76i98sc2dq01ne8s0s8s411qjde7lh3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArGwcZ6K6_baiGE-L9HDCPgZ7BQX-VSqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465260998303-76i98sc2dq01ne8s0s8s411qjde7lh3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
